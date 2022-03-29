@@ -27,9 +27,7 @@ yarn-error.log*
 # types
 src/types/*
 !src/types/common.ts
-!src/types/Greeter.ts
 
 # factories
 !src/types/factories
 src/types/factories/*
-!src/types/factories/Greeter__factory.ts
